@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Assests.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="2.8991962 : 723.90991 : 1"
+       inkscape:vp_y="0 : 467.10906 : 0"
+       inkscape:vp_z="746.99368 : 723.90991 : 1"
+       inkscape:persp3d-origin="374.94644 : 641.98192 : 1"
+       id="perspective3798" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="384.17961"
+     inkscape:cy="791.59182"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff00ff;fill-opacity:0.59493671;stroke:none"
+       id="path2985"
+       sodipodi:sides="5"
+       sodipodi:cx="155.56349"
+       sodipodi:cy="335.15387"
+       sodipodi:r1="131.00865"
+       sodipodi:r2="43.261597"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="-2.5105551"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 221.06781,448.61069 120.63339,309.63027 67.901588,432.51227 169.04388,294.04615 35.881136,281.86784 198.82493,335.2715 169.25763,204.8629 168.82014,376.33429 283.70929,307.91565 120.49511,360.48714 z"
+       inkscape:transform-center-x="6.6928207"
+       inkscape:transform-center-y="1.3533552"
+       transform="matrix(0.45166425,0.45166425,-0.45166425,0.45166425,255.34598,-60.651106)"
+       inkscape:export-filename="/media/kenystev/Datos/keny++/TareaLab Cliente-Servidor/star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#800080;fill-opacity:0.59493671;stroke:none"
+       id="rect2987"
+       width="48.392601"
+       height="48.392601"
+       x="149.21652"
+       y="135.92123"
+       ry="4.9973388"
+       inkscape:export-filename="/media/kenystev/Datos/keny++/TareaLab Cliente-Servidor/star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="2.0137651"
+       y="225.98303"
+       x="2.0568063"
+       height="19.500645"
+       width="19.500645"
+       id="rect2989"
+       style="fill:#800080;fill-opacity:0.59493671;stroke:none"
+       transform="matrix(0.71428499,-0.69985495,0.69985495,0.71428499,0,0)"
+       inkscape:export-filename="/media/kenystev/Datos/keny++/TareaLab Cliente-Servidor/star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       sodipodi:type="inkscape:box3d"
+       style="fill:#800080;fill-opacity:0.59493671;stroke:none"
+       id="g3814"
+       inkscape:perspectiveID="#perspective3798"
+       inkscape:corner0="0.18378667 : 0.66442145 : 0 : 1"
+       inkscape:corner7="-0.046032719 : 0.50270429 : 0.25 : 1"
+       inkscape:export-filename="/media/kenystev/Datos/keny++/TareaLab Cliente-Servidor/cubo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3826"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="11"
+         d="m 392.12786,169.13339 74.29794,-30.4116 0,62.7422 -74.29794,20.35475 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3816"
+         style="fill:#353564;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="6"
+         d="m 317.18491,135.48736 0,63.8118 74.94295,22.51958 0,-52.68535 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3818"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="5"
+         d="m 317.18491,135.48736 75.71429,-46.486999 73.5266,49.721429 -74.29794,30.4116 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3824"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="13"
+         d="m 317.18491,199.29916 75.71429,-31.11416 73.5266,33.27899 -74.29794,20.35475 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3822"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="14"
+         d="m 392.8992,89.000361 0,79.184639 73.5266,33.27899 0,-62.7422 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3820"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="3"
+         d="m 317.18491,135.48736 75.71429,-46.486999 0,79.184639 -75.71429,31.11416 z" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#800080;fill-opacity:0.59493671;stroke:none"
+       id="path4842"
+       sodipodi:cx="587.90875"
+       sodipodi:cy="131.10306"
+       sodipodi:rx="42.426407"
+       sodipodi:ry="127.27922"
+       d="m 630.33516,131.10306 a 42.426407,127.27922 0 1 1 -84.85281,0 42.426407,127.27922 0 1 1 84.85281,0 z"
+       transform="matrix(0.4920635,0,0,0.4920635,310.74214,104.97783)"
+       inkscape:export-filename="/media/kenystev/Datos/keny++/TareaLab Cliente-Servidor/elipce.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 630.33516,131.10306 a 42.426407,127.27922 0 1 1 -84.85281,0 42.426407,127.27922 0 1 1 84.85281,0 z"
+       sodipodi:ry="127.27922"
+       sodipodi:rx="42.426407"
+       sodipodi:cy="131.10306"
+       sodipodi:cx="587.90875"
+       id="path4844"
+       style="fill:#800080;fill-opacity:0.59493671;stroke:none"
+       sodipodi:type="arc"
+       transform="matrix(0,-0.4920635,0.4920635,0,535.51955,458.7773)"
+       inkscape:export-filename="/media/kenystev/Datos/keny++/TareaLab Cliente-Servidor/elipce.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#800080;fill-opacity:0.59493671;stroke:none"
+       id="path4846"
+       sodipodi:cx="601.42859"
+       sodipodi:cy="167.36218"
+       sodipodi:rx="36.785713"
+       sodipodi:ry="36.785713"
+       d="m 638.2143,167.36218 a 36.785713,36.785713 0 1 1 -73.57142,0 36.785713,36.785713 0 1 1 73.57142,0 z"
+       transform="translate(-1.3980094,2.1266769)"
+       inkscape:export-filename="/media/kenystev/Datos/keny++/TareaLab Cliente-Servidor/elipce.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
